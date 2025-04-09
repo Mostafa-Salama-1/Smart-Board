@@ -46,6 +46,6 @@ https://github.com/user-attachments/assets/a55032fb-66fb-4989-b742-18e513231a8e
 
 | Air Writing | Recognition | Result |
 |-------------|-------------|--------|
-| ![Drawing](![Image](https://github.com/user-attachments/assets/beb6f057-edad-4a88-bf8a-1bbeff817b55)) | `5 x 2` recognized | Result = `10.0` |
+| ![Image](https://github.com/user-attachments/assets/beb6f057-edad-4a88-bf8a-1bbeff817b55) | `5 x 2` recognized | Result = `10.0` |
 
 
