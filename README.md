@@ -2,7 +2,7 @@
 
 An AI-powered virtual whiteboard that lets you **write in the air** using **hand gestures**, recognize your handwriting, and **solve math problems in real time** — all through your webcam!
 
-![Demo](https://github.com/user-attachments/assets/9ad9f03e-c9ec-48cc-b488-5c116f662a66)
+🎥 [Click to watch the demo](https://github.com/user-attachments/assets/9ad9f03e-c9ec-48cc-b488-5c116f662a66)
 
 ---
 
