@@ -48,19 +48,4 @@ An AI-powered virtual whiteboard that lets you **write in the air** using **hand
 |-------------|-------------|--------|
 | ![Drawing](./image.png) | `5 x 2` recognized | Result = `10.0` |
 
----
 
-## 🏁 How to Run
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Mostafa-Salama-1/Smart-Board.git
-cd Smart-Board
-
-# 2. Install requirements
-pip install -r requirements.txt
-
-# 3. (Optional) The TrOCR model will download automatically on first use
-
-# 4. Run the app
-# You can open and run Untitled.ipynb
